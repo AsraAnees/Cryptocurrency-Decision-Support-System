@@ -39,21 +39,6 @@ Scatter plots of actual versus predicted values are also generated to visually c
 
 Python, pandas, NumPy, scikit-learn, NLTK/VADER, Matplotlib, and Seaborn are used for data processing, sentiment analysis, machine learning, evaluation, and visualization.
 
-## Repository Structure
-
-```text
-Cryptocurrency-Decision-Support-System/
-├── data/
-│   ├── cryptocurrency_data.csv
-│   ├── sentiment_data.csv
-│   └── target_variable.csv
-├── src/
-│   └── project.py
-├── report/
-│   └── Project-Report.pdf
-└── README.md
-```
-
 ## Project Report
 
 The accompanying report, **“Integrating Sentiment and Interest-Based Features for Accurate Cryptocurrency Price Prediction,”** documents the project objectives, analysis, system design, implementation, evaluation, visualizations, and conclusions.
